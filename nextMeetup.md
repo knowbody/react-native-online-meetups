@@ -8,7 +8,7 @@
 Short bio
 
 #### Outline
-What you're be presenting
+What you'll be presenting
 
 
 
