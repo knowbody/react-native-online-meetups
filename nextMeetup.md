@@ -38,3 +38,18 @@ React Native ronin @ OSS
 
 #### Outline
 I can talk about JS - Native bridge. For instance, I can explain what actually happens once you call `AppRegistry.registerComponent` and how your React tree maps to the real native UI you see on a device.
+
+
+### Truls Skeie
+
+#### Bio
+Work at Routes.guide and as a Consultant. 
+
+#### Outline
+At Routes.guide we have a webapp, and a RN (React-native) ios and Android app. I can talk about code sharing between the webapp and the native apps.
+I can also talk about the challenges of using RN to develop for both Android and iOS.
+
+As a consultant I’ve been working on a calling app (app-to-app and app-to-[PSTN](https://en.wikipedia.org/wiki/Public_switched_telephone_network]).
+This is just for Android. For this project we have written a couple of native modules for Android I can possible talk about that. We have also written a little bit of the UI in plain Java / Android (XML). So I can talk about how we share data between this (even though I don’t think we have solved it elegantly I would love to get some feedback and tell why we did what we did).
+
+I've worked with RN for the past 1.5 years and I had zero experience in developing native Android and iOS apps before RN.
