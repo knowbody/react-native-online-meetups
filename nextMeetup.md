@@ -30,3 +30,11 @@ Work on React Native @ Sale Stock
 
 #### Outline
 I can talk about code sharing between our android app and web app using React Native Web. I can also talk about versioner (like codepush) and how we do automatic update for our react native android app.
+
+### Alexey Kureev
+
+#### Bio
+React Native ronin @ OSS
+
+#### Outline
+I can talk about JS - Native bridge. For instance, I can explain what actually happens once you call `AppRegistry.registerComponent` and how your React tree maps to the real native UI you see on a device.
