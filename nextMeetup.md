@@ -67,6 +67,6 @@ TBD: Available after 12/1
 Work on React Native apps @ Nirvana & @ PeopleLikeUs
 
 #### Outline
-I can talk about the challenges of migrating UI components from React web to React Native that rely heavily on user interaction (`PanResponder` vs event listeners, `Animated` vs CSS transitions/animations, sortable + swipeable `ListView`, etc). For the past 6 months, I've been working on migrating a Cordova based app built with React to React Native. I can speak about the challenges that have presented themselves during this journey and how we've managed to solve them.
+I can talk about the challenges of migrating React components that rely heavily on user interaction to React Native (for example, the differences between `PanResponder` vs event listeners, `Animated` vs CSS transitions/animations, sortable+swipeable `ListView`, `LayoutAnimation`, etc). For the past 6 months, I've been working on migrating a Cordova based app built with React to React Native. I can speak about some of the challenges that have presented themselves during this journey and how we've managed to solve them.
 
 I'm also currently working on migrating some of my open source projects to React Native (namely, `react-infinite-calendar` and `react-sortable-hoc`), and can also talk about that process and the challenges it's presented.
