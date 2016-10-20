@@ -70,3 +70,12 @@ Work on React Native apps @ Nirvana & @ PeopleLikeUs
 I can talk about the challenges of migrating React components that rely heavily on user interaction to React Native (for example, the differences between `PanResponder` vs event listeners, `Animated` vs CSS transitions/animations, sortable+swipeable `ListView`, `LayoutAnimation`, etc). For the past 6 months, I've been working on migrating a Cordova based app built with React to React Native. I can speak about some of the challenges that have presented themselves during this journey and how we've managed to solve them.
 
 I'm also currently working on migrating some of my open source projects to React Native (namely, `react-infinite-calendar` and `react-sortable-hoc`), and can also talk about that process and the challenges it's presented.
+
+### Mike Grabowski
+
+#### Bio
+I am a CTO @ Callstack.io and React Native contributor by night
+
+### Outline
+I can talk about everything related to React Native (releases, native modules) and everything we do at Callstack, which includes the way we work, our open source activities and plans for open sourcing next frameworks and tools that we use internally
+
