@@ -20,4 +20,7 @@ The meetup will be organised whenever we will have enough speakers (4-5), still 
 
 It will take place in the week of 31st Oct some time between 6pm - 9pm GMT. Still to be confirmed based on the speakers availability.
 
-If you're still interested in speaking, send the PR and if you are already on the list, please let me know about your availabilty in here: http://doodle.com/poll/rrwqm3dznw2msubf
+
+#### SPEAKERS ONLY
+
+If you're still interested in speaking, send the PR and **if you are already on the list**, please let me know about your availabilty in here: http://doodle.com/poll/rrwqm3dznw2msubf
