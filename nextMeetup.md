@@ -20,7 +20,7 @@ What you'll be presenting
 Work on React Native @ Airbnb
 
 #### Outline
-I can talk about our navigation library, as well as anything else that we are doing at Airbnb that 
+I can talk about our navigation library, as well as anything else that we are doing at Airbnb that
 people are interested in, for example some of the responses to [this tweet](https://twitter.com/intelligibabble/status/788249703737458689).
 
 ### Sonny Lazuardi
@@ -42,7 +42,7 @@ I can talk about JS - Native bridge. For instance, I can explain what actually h
 ### Truls Skeie
 
 #### Bio
-Work at Routes.guide and as a Consultant. 
+Work at Routes.guide and as a Consultant.
 
 #### Outline
 At Routes.guide we have a webapp, and a RN (React-native) ios and Android app. I can talk about code sharing between the webapp and the native apps.
@@ -60,3 +60,13 @@ Work on React @ Coinbase and React Native for side projects/OSS
 
 #### Outline
 TBD: Available after 12/1
+
+### Claudéric Demers
+
+#### Bio
+Work on React Native apps @ Nirvana & @ PeopleLikeUs
+
+#### Outline
+I can talk about the challenges of migrating React components that rely heavily on user interaction to React Native (for example, the differences between `PanResponder` vs event listeners, `Animated` vs CSS transitions/animations, sortable+swipeable `ListView`, `LayoutAnimation`, etc). For the past 6 months, I've been working on migrating a Cordova based app built with React to React Native. I can speak about some of the challenges that have presented themselves during this journey and how we've managed to solve them.
+
+I'm also currently working on migrating some of my open source projects to React Native (namely, `react-infinite-calendar` and `react-sortable-hoc`), and can also talk about that process and the challenges it's presented.
