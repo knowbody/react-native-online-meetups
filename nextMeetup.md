@@ -79,3 +79,13 @@ I am a CTO @ Callstack.io and React Native contributor by night
 ### Outline
 I can talk about everything related to React Native (releases, native modules) and everything we do at Callstack, which includes the way we work, our open source activities and plans for open sourcing next frameworks and tools that we use internally
 
+
+### Kumar Sanket
+
+#### Bio
+I am CTO / CEO @ Nativebase.io and GeekyAnts.com
+https://twitter.com/sanketsahu
+https://github.com/sanketsahusoft
+
+### Outline
+I am a co-author of NativeBase (OpenSource) - Essential cross-platform UI component library for React Native. It is being used by many React Native developers in production. I can talk about how we came up with the idea of NativeBase and how we developed the set of UI components. I would shed some light on how you can use it for your next project to ease the development and move faster with your idea.
