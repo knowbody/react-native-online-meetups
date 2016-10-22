@@ -89,3 +89,14 @@ https://github.com/sanketsahusoft
 
 ### Outline
 I am a co-author of NativeBase (OpenSource) - Essential cross-platform UI component library for React Native. It is being used by many React Native developers in production. I can talk about how we came up with the idea of NativeBase and how we developed the set of UI components. I would shed some light on how you can use it for your next project to ease the development and move faster with your idea.
+
+
+
+### Name of the speaker
+Parashuram
+
+#### Bio
+Senior Program Manager at Microsoft, working on ReactNative
+
+#### Outline
+User gesture sync for ReactNative, and how it works - based on http://blog.nparashuram.com/2016/09/user-interaction-sync-for-reactnative.html.
