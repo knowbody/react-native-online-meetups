@@ -85,3 +85,18 @@ Senior Program Manager at Microsoft, working on ReactNative
 
 ### Outline
 User gesture sync for ReactNative, and how it works - based on http://blog.nparashuram.com/2016/09/user-interaction-sync-for-reactnative.html.
+
+
+
+## Gant Laborde
+
+#### Bio
+Tech Lead for [Infinite Red](http://infinite.red), which means I'm the technology director for our stack.  Huge fan and top 100 contributor to React Native.  Helping coordinate the US React Native conference and experienced speaker/author.  Lead contributor of [Ignite](https://github.com/infinitered/ignite) project.
+
+Social:
+* [Twitter](https://twitter.com/GantLaborde)
+* [Github](https://github.com/gantman)
+* [Website](http://gantlaborde.com/)
+
+### Outline
+Ignite is a generator for boilerplate code in React Native.  Even though it currently comes with a kitchen sink of best practices, it's growing and evolving into a dynamic system that will work with numerous other tools.  See where it is, and what it provides today, as well as how it can benefit your open library in the future.
