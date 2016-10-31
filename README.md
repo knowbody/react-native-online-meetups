@@ -16,9 +16,11 @@ So I came with this crazy idea about doing online meetups on React Native.
 
 The meetup will be organised whenever we will have enough speakers (4-5), still not sure how much interest this thing will get. Hoping for one every month.
 
-#### The next and the first meetup
+#### Meetup 3rd November 2016
 
-It will take place in the week of 31st Oct some time between 6pm - 9pm GMT. Still to be confirmed based on the speakers availability.
+Yay! The first meetup is going to happen on the 3rd Novemeber 2016 at 8pm (GMT). I know that is not the best time for all of the timezones, but let's check how it goes this time and we will improve it later. The event is going to be **live streamed and recorded.**
+
+Stay tuned!
 
 
 #### SPEAKERS ONLY
