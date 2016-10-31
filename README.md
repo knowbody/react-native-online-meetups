@@ -26,6 +26,7 @@ The meetup will be organised whenever we will have enough speakers (4-5), still 
   - Alexey Kureev
   - Mike Grabowski
   - Kumar Sanket
+  - Parashuram
 
   Stay tuned!
 
