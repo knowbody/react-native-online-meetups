@@ -23,7 +23,7 @@ The meetup will be organised whenever we will have enough speakers (4-5), still 
   *Confirmed speakers:*
   - Gant Laborde
   - Leland Richardson
-  - Alexey Kureev
+  - Truls Skeie
   - Mike Grabowski
   - Kumar Sanket
   - Parashuram
