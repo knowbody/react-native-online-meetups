@@ -7,7 +7,7 @@ So I came with this crazy idea about doing online meetups on React Native.
 ## Link to the live stream:
 
 * Live from 8pm (GMT) at: https://www.youtube.com/watch?v=6dek2apWWZA
-* Q&A after each talk via [app.sli.do/event/tvv7eoe9](app.sli.do/event/tvv7eoe9)
+* Q&A after each talk via [app.sli.do/event/tvv7eoe9](https://app.sli.do/event/tvv7eoe9)
 
 
 ### How I see it:
