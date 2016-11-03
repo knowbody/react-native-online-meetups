@@ -3,6 +3,12 @@ React Native Online Meetups
 
 So I came with this crazy idea about doing online meetups on React Native.
 
+
+## Link to the live stream:
+
+TBC (around 7pm GMT)
+
+
 ### How I see it:
 
 1. We get speakers, around 4-5 speakers per meetup
