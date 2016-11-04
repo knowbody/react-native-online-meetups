@@ -100,3 +100,17 @@ Social:
 
 ### Outline
 Ignite is a generator for boilerplate code in React Native.  Even though it currently comes with a kitchen sink of best practices, it's growing and evolving into a dynamic system that will work with numerous other tools.  See where it is, and what it provides today, as well as how it can benefit your open library in the future.
+
+
+## Tucker Connelly
+
+#### Bio
+Working on [Stori](https://stori.video), a video storytelling app. [Twitter](https://twitter.com/tuckerconnelly)
+
+#### Outline
+I'd love to talk about how I'm creating Stori with 99% code shared between iOS, Android, and Web.
+
+- Media queries in react-native
+- New x-platform routing library
+- New x-platform Material Design library
+- Sharing functional tests that run in both Appium and Selenium
