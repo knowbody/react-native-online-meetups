@@ -31,12 +31,12 @@ The meetup will be organised whenever we will have enough speakers (4-5), still 
   Yay! The first meetup happened on 3-Nov-16 at 8pm (GMT). I knew that was not the best time for all of the timezones, but we promise to improve later based on the attendees. The event was **live streamed and recorded.**
   
   *Confirmed speakers:*
-  - Gant Laborde
-  - Leland Richardson
-  - Truls Skeie
-  - Mike Grabowski
-  - Kumar Sanket
-  - Parashuram
+  - [Gant Laborde](https://github.com/GantMan)
+  - [Leland Richardson](https://github.com/lelandrichardson)
+  - [Truls Skeie](https://github.com/skeie)
+  - [Mike Grabowski](https://github.com/grabbou)
+  - [Kumar Sanket](https://github.com/sanketsahusoft)
+  - [Parashuram](https://github.com/panarasi)
 
   Stay tuned!
 
