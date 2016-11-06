@@ -11,11 +11,11 @@ So I came with this crazy idea about doing online meetups on React Native.
 4. Meetups will be live streamed and recorded.
 5. More to follow, stay tuned!
 
-#### UPCOMING MEETUPS
+### UPCOMING MEETUPS
 
 The second meetup date is yet to be confirmed - please PR `interestedSpeakers.md` if you'd like to speak. I'd love to hear what you're working on!
 
-#### PAST MEETUPS
+### PAST MEETUPS
 
 When | Speakers | Video
 ------------ | ------------- | -------------
