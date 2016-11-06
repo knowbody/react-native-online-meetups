@@ -1,5 +1,4 @@
-React Native Online Meetups
-===
+#React Native Online Meetups
 
 So I came with this crazy idea about doing online meetups on React Native.
 
@@ -11,11 +10,11 @@ So I came with this crazy idea about doing online meetups on React Native.
 4. Meetups will be live streamed and recorded.
 5. More to follow, stay tuned!
 
-### UPCOMING MEETUPS
+## UPCOMING MEETUPS
 
 The second meetup date is yet to be confirmed - please PR `interestedSpeakers.md` if you'd like to speak. I'd love to hear what you're working on!
 
-### PAST MEETUPS
+## PAST MEETUPS
 
 When | Speakers | Video
 ------------ | ------------- | -------------
@@ -24,13 +23,13 @@ When | Speakers | Video
 I knew that was not the best time for all of the timezones, but we promise to improve later based on the attendees.
 
 
-### HOW TO CONTRIBUTE
-#### As a speaker
+## HOW TO CONTRIBUTE
+### As a speaker
 If you're interested in being among the speakers, send a PR of `interestedSpeakers.md` with your name, a short bio/contact and the outline of what you'd like to talk about.
 
 **If you are already on the list**, please let me know about your availabilty in here: http://doodle.com/poll/rrwqm3dznw2msubf
 
-#### As a non-speaker
+### As a non-speaker
 During the meetup you'll be able to talk with the speakers and the other spectators via the YouTube Live chat and other tools (like Sli.Do).
 
 If you'd like to hear about a certain topic, send a PR of `suggestedTopics.md`.
