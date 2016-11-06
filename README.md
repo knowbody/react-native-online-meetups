@@ -18,7 +18,7 @@ The second meetup date is yet to be confirmed - please PR `interestedSpeakers.md
 #### PAST MEETUPS
 
 When | Speakers | Video
------------- | -------------
+------------ | ------------- | -------------
 3-Nov-16 at 8pm (GMT) | [Mateusz Zatorski](https://twitter.com/matzatorski), [Kumar Sanket](https://twitter.com/NativeBaseIO), [Truls Skeie](https://twitter.com/trulsskeie), [Gant Laborde](https://twitter.com/GantLaborde), [Parashuram](https://twitter.com/nparashuram) | [YouTube](https://www.youtube.com/watch?v=6dek2apWWZA) [Sli.Do](https://app.sli.do/event/tvv7eoe9/ask)
 
 I knew that was not the best time for all of the timezones, but we promise to improve later based on the attendees.
