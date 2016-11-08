@@ -4,8 +4,8 @@ So I came with this crazy idea about doing online meetups on React Native.
 
 ### How I see it:
 
-1. Every month or so, we get speakers - 4-5 per meetup.
-2. The session will last around for an hour.
+1. Every month or so, we get 4-5 speakers per meetup.
+2. Every session will last around for an hour.
 3. I mainly would like to see what people are working on, whether it's a library, side project app, or some hack you want to share with others.
 4. Meetups will be live streamed and recorded.
 5. More to follow, stay tuned!
@@ -18,7 +18,7 @@ The second meetup date is yet to be confirmed - please PR `interestedSpeakers.md
 
 When | Speakers | Video
 ------------ | ------------- | -------------
-3-Nov-16 at 8pm (GMT) | [Mateusz Zatorski](https://twitter.com/matzatorski), [Kumar Sanket](https://twitter.com/NativeBaseIO), [Truls Skeie](https://twitter.com/trulsskeie), [Gant Laborde](https://twitter.com/GantLaborde), [Parashuram](https://twitter.com/nparashuram) | [YouTube](https://www.youtube.com/watch?v=6dek2apWWZA) [Sli.Do](https://app.sli.do/event/tvv7eoe9/ask)
+3-Nov-16 at 8pm (GMT) | [Mateusz Zatorski](https://twitter.com/matzatorski), [Kumar Sanket](https://twitter.com/sanketsahu), [Truls Skeie](https://twitter.com/trulsskeie), [Gant Laborde](https://twitter.com/GantLaborde), [Parashuram](https://twitter.com/nparashuram) | [YouTube](https://www.youtube.com/watch?v=6dek2apWWZA) [Sli.Do](https://app.sli.do/event/tvv7eoe9/ask)
 
 I knew that was not the best time for all of the timezones, but we promise to improve later based on the attendees.
 
