@@ -123,3 +123,14 @@ Working with React Native in [open source libraries](https://github.com/oblador)
 
 #### Outline
 I can talk about a bunch of things, but would love to talk about [`react-native-animatable`](https://github.com/oblador/react-native-animatable/) and how upcoming changes will help you make animation and transitions easy and performant.
+
+
+## Nicolas Cuillery
+
+#### Bio
+JavaScript developer & trainer @ [Zenika](http://www.zenika.com), working on 6play native apps @ [M6Web](http://tech.m6web.fr/) (french TV catchup). Creator of [rn-diff](https://medium.com/@ncuillery/easier-react-native-upgrades-with-rn-diff-5020b5c3de2d#.fo9egfba3).
+
+#### Outline
+I have created [rn-diff](https://medium.com/@ncuillery/easier-react-native-upgrades-with-rn-diff-5020b5c3de2d#.fo9egfba3) to help people  using `react-native upgrade`. This process, based on Yeoman change detection, is one of the most painful task you'll face when using React Native. Inspired by rn-diff, and backed by the core team, I'm currently rewriting the `upgrade` command, based on Git and causing far less conflicts. I'd love to present my work so far (PR is coming soon). 
+
+I have already talked about it at the last [React Paris meetup](https://www.meetup.com/en-US/ReactJS-Paris/events/234694296/?eventId=234694296) and it was pretty well-received.
