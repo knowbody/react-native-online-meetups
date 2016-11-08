@@ -114,3 +114,12 @@ I'd love to talk about how I'm creating Stori with 99% code shared between iOS, 
 - New x-platform routing library
 - New x-platform Material Design library
 - Sharing functional tests that run in both Appium and Selenium
+
+
+## Joel Arvidsson
+
+#### Bio
+Working with React Native in [open source libraries](https://github.com/oblador), [production](https://twitter.com/trastknast/status/725757254159364097) and occasionally core.
+
+#### Outline
+I can talk about a bunch of things, but would love to talk about [`react-native-animatable`](https://github.com/oblador/react-native-animatable/) and how upcoming changes will help you make animation and transitions easy and performant.
