@@ -12,7 +12,12 @@ So I came with this crazy idea about doing online meetups on React Native.
 
 ## UPCOMING MEETUPS
 
-The second meetup date is yet to be confirmed - please PR `interestedSpeakers.md` if you'd like to speak. I'd love to hear what you're working on!
+Please PR `interestedSpeakers.md` if you'd like to speak. I'd love to hear what you're working on!
+
+
+When | Speakers | Video
+------------ | ------------- | -------------
+15-Feb-17 at 5h30pm (GMT) | [Gant Laborde](https://twitter.com/GantLaborde), [Nader Dabit](https://twitter.com/dabit3) and [Sanket Sahu](https://twitter.com/sanketsahu) | [BigMarker](https://www.bigmarker.com/remote-meetup/React-Native-Remote-Meetup-1) 
 
 ## PAST MEETUPS
 
