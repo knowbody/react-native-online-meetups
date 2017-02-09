@@ -1,8 +1,10 @@
-#React Native Online Meetups
+#REACT NATIVE ONLINE MEETUPS
 
-So I came with this crazy idea about doing online meetups on React Native.
+"So I came with this crazy idea about doing online meetups on React Native."
 
-### How I see it:
+-> [Mateusz Zatorski](https://twitter.com/matzatorski), Nov 2016 <-
+
+### How it works, basically:
 
 1. Every month or so, we get 4-5 speakers per meetup.
 2. Every session will last around for an hour.
@@ -12,12 +14,18 @@ So I came with this crazy idea about doing online meetups on React Native.
 
 ## UPCOMING MEETUPS
 
-Please PR `interestedSpeakers.md` if you'd like to speak. I'd love to hear what you're working on!
+The second meetup is going to be on Wednesday, Feb 15th at 17.30 GMT.
 
+The speakers line-up will include:
+* [Gant Laborde](https://twitter.com/GantLaborde)
+* [Nader Dabit](https://twitter.com/dabit3)
+* [Kumar Sanket](https://twitter.com/sanketsahu)
 
-When | Speakers | Video
------------- | ------------- | -------------
-15-Feb-17 at 5h30pm (GMT) | [Gant Laborde](https://twitter.com/GantLaborde), [Nader Dabit](https://twitter.com/dabit3) and [Sanket Sahu](https://twitter.com/sanketsahu) | [BigMarker](https://www.bigmarker.com/remote-meetup/React-Native-Remote-Meetup-1) 
+And [Franzé Júnior](https://twitter.com/GantLaborde) will host.
+
+This time the tool used will be [BigMarker](https://www.bigmarker.com/remote-meetup/React-Native-Remote-Meetup-1).
+
+See you there!
 
 ## PAST MEETUPS
 
@@ -32,10 +40,10 @@ I knew that was not the best time for all of the timezones, but we promise to im
 ### As a speaker
 If you're interested in being among the speakers, send a PR of `interestedSpeakers.md` with your name, a short bio/contact and the outline of what you'd like to talk about.
 
-**If you are already on the list**, please let me know about your availabilty in here: http://doodle.com/poll/rrwqm3dznw2msubf
+For each new session an issue will be created, like [this](https://github.com/knowbody/react-native-online-meetups/issues/29), in order to define 3-4 speakers that will partecipate.
 
 ### As a non-speaker
-During the meetup you'll be able to talk with the speakers and the other spectators via the YouTube Live chat and other tools (like Sli.Do).
+During the meetup you'll be able to talk with the speakers and the other spectators via some tool (first time it was Sli.Do and YouTube Live chat, for the second we'll try BigMarker).
 
 If you'd like to hear about a certain topic, send a PR of `suggestedTopics.md`.
 
