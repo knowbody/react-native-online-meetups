@@ -138,4 +138,4 @@ Social:
 * [LinkedIn](http://www.linkedin.com/in/gergo-bogdan)
 
 ### Outline
-The purpose of my meeting would be to present our proof of concept, my experience with React Native from a developer point of view and how does this technology fits our needs. Its more like a study-case presentation, not very technical, but we can go into technical details too, its up to the audience.
+The purpose of my presentation would be to present our proof of concept, my experience with React Native from a developer point of view and how does this technology fit our needs. Its more like a study-case presentation, not very technical, but we can go into technical details too, its up to the audience.
