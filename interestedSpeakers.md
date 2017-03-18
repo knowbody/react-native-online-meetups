@@ -134,7 +134,7 @@ As a hobby I am the owner and contributor to [DealWithJS](http://dealwithjs.io).
 Social:
 * [Twitter](https://twitter.com/gergob)
 * [GitHub](https://github.com/gergob)
-* [Website](http://dealwithjs.io/) / [Website Twitter]((https://twitter.com/dealwithjs)
+* [Website](http://dealwithjs.io/) / [Website Twitter](https://twitter.com/dealwithjs)
 * [LinkedIn](http://www.linkedin.com/in/gergo-bogdan)
 
 ### Outline
