@@ -123,3 +123,19 @@ Working with React Native in [open source libraries](https://github.com/oblador)
 
 #### Outline
 I can talk about a bunch of things, but would love to talk about [`react-native-animatable`](https://github.com/oblador/react-native-animatable/) and how upcoming changes will help you make animation and transitions easy and performant.
+
+
+## Gergo Bogdan
+
+#### Bio
+Web Team Lead for [Accedo.tv](http://www.accedo.tv)'s Budapest Office where we started to explore React Native as an alternative to support our mobile application development teams. During this exploration I created a proof of concept, its open source, you can find it here on Github, the repo is called [rent](https://www.github.com/gergob/rent).
+As a hobby I am the owner and contributor to [DealWithJS](http://dealwithjs.io).
+
+Social:
+* [Twitter](https://twitter.com/gergob)
+* [GitHub](https://github.com/gergob)
+* [Website](http://dealwithjs.io/) / [Website Twitter](https://twitter.com/dealwithjs)
+* [LinkedIn](http://www.linkedin.com/in/gergo-bogdan)
+
+### Outline
+The purpose of my presentation would be to present our proof of concept, my experience with React Native from a developer point of view and how does this technology fit our needs. Its more like a study-case presentation, not very technical, but we can go into technical details too, its up to the audience.
