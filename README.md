@@ -1,4 +1,4 @@
-#REACT NATIVE ONLINE MEETUPS
+# REACT NATIVE ONLINE MEETUPS
 
 "So I came with this crazy idea about doing online meetups on React Native."
 
@@ -14,14 +14,14 @@
 
 ## UPCOMING MEETUPS
 
-The next meetup (\#2) date is still to be decided (>= mid-March).
+The next meetup (\#2) date is April 7th, at 6pm GMT.
 
 The speakers line-up will include:
 * [Parashuram](https://twitter.com/nparashuram)
 * [Kumar Sanket](https://twitter.com/sanketsahu)
 * [Peter Piekarczyk](https://twitter.com/peterpme)
 
-[Franzé Júnior](https://twitter.com/franzejr) will host, and we will be using [BigMarker](https://www.bigmarker.com/remote-meetup) as platform.
+[Franzé Júnior](https://twitter.com/franzejr) will host, and we will be using [BigMarker](https://www.bigmarker.com/remote-meetup) as platform - you can sign up for this session [here](https://www.bigmarker.com/remote-meetup/React-Native-Remote-Meetup-2).
 
 The best way to keep up-to-date is to follow the hosts on twitter or watch this repository.
 
@@ -29,7 +29,7 @@ See you there!
 
 ## PAST MEETUPS
 
- | When | Host | Speakers | Video
+\# | When | Host | Speakers | Video
 --- | --- | :---: | --- | ---
 \#1 | 15-Feb-17 at 17.30pm (GMT) | [Franzé Júnior](https://twitter.com/franzejr) | [Kumar Sanket](https://twitter.com/sanketsahu), [Nader Dabit](https://twitter.com/dabit3), [Gant Laborde](https://twitter.com/GantLaborde) | [YouTube](https://www.youtube.com/watch?v=2A9DHFayBYQ)
 \#0 |3-Nov-16 at 8pm (GMT) | [Mateusz Zatorski](https://twitter.com/matzatorski) | [Kumar Sanket](https://twitter.com/sanketsahu), [Truls Skeie](https://twitter.com/trulsskeie), [Gant Laborde](https://twitter.com/GantLaborde), [Parashuram](https://twitter.com/nparashuram) | [YouTube](https://www.youtube.com/watch?v=6dek2apWWZA) [Sli.Do](https://app.sli.do/event/tvv7eoe9/ask)
